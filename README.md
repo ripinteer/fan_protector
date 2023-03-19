@@ -48,3 +48,8 @@ As you can see, making use of this kind of tech comes with certain troubles. Thi
 The only problem is my design doesn't have this MOSFET. Why, you ask? :eye:4:goat: ... Well, I guess that's what ver2.0 is for
 > :pushpin: **Note:** As you can probably noticed, this design supports both polulu and standart connection. Let's consider standart connection a default variant by now. 
 
+<figure>
+    <img src="/readme_pics/inline_installed.jpg"
+         alt="protector installed inline">
+    <figcaption>Use the pins on the short sides for inline connection</figcaption>
+</figure>
