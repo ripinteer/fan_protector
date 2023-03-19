@@ -27,7 +27,7 @@ Once the board is installed, the corresponding 4pin XH2.54 motor connector becom
 
 > :pushpin: **Note:** This fan is a beast, so 60% of it will be already overkill for some cases
 
-However, if you reading this, you probably want to squeeze all from the XiaoFan setup, and that's won't be a problem. Just to be safe you can provide some sort of cooling to the cooling fan (haha). The 40mm fan can be a way to go (refer to the link in the beginning).
+However, if you are reading this, you probably want to squeeze all from the XiaoFan setup, and this won't be a problem. Just to be safe you can provide some sort of cooling to the cooling fan (haha). The 40mm fan can be a way to go (refer to the link in the beginning).
 
 ### Connecting to Klipper
 Nothing too complicated, just add another fan section. You can find examples for Qinatsu and Nidec (indicated at blower PCB) fans by using link above. 
