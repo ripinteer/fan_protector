@@ -45,6 +45,6 @@ Not yet tested/proved, but should be done with pin remapping according to scheme
 
 ### The Nidec case
 As you can see, making use of this kind of tech comes with certain troubles. This time, it's Nidec fan tricky startup sequence. For some reason, they require PWM signal to be present when powering it up. In other words, PWM signal and DC power should be supplied together at the same moment. If not, Nidec won't start. Thankfully Klipper comes with *enable_pin* functionality, therefore we can just put a MOSFET in DC circut and tell Klipper about it.<br>
-The only problem is my design doesn't have this MOSFET. Why, you ask? :eye: 4 :goat: ... Well, I guess that's ver2.0 is for
+The only problem is my design doesn't have this MOSFET. Why, you ask? :eye:4:goat: ... Well, I guess that's what ver2.0 is for
 > :pushpin: **Note:** As you can probably noticed, this design supports both polulu and standart connection. Let's consider standart connection a default variant by now. 
 
