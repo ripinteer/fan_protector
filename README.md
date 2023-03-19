@@ -14,7 +14,7 @@ For more details about XiaoFans aka Roborockers, please refer to <a href="https:
 
 My take on that situation
 ---
-So, to make use of XiaoFan good folks designed a simple schematic that adds missed protection features and stabilizes control voltage. To simplify the installation process and eliminate wiring "fun" I designed that simple polulu-compatible protection board, based on the original schematic.
+So, to make use of XiaoFan, good folks designed a simple schematic that adds missed protection features and stabilizes control voltage. To simplify the installation process and eliminate wiring "fun" I designed this simple polulu-compatible protection board, based on the original schematic.
 
 <figure>
     <p align="center">
