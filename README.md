@@ -37,6 +37,12 @@ you will need to know STEP and DIR pin addresses for the driver slot, where Fan 
 * #### For inline/"classic" connection
 you will need to connect three (four with FG) pins: GND, VDD (aka VDD aka "plus"), and PWM. The XiaoFans is pretty powerhungry (~2.5A at 24V 100%) so you should power it from the main DC supply (PSU). PWM pin should be connected to any unoccupied PWM-controllable output on the motherboard. Ideally, this pin should support hardware PWM, so you can go for higher frequencies to eliminate "whistle" caused by low-freq PWM. Klipper should warn you if the chosen pin is unsupported by hardware PWM. <br> *Also this type of connection is already described in the repo by the link above which should be considered prior*
 
+<figure>
+    <img src="/readme_pics/inline.jpg"
+         alt="protector board with XH2.54 connectors installed">
+    <figcaption>protector board with soldered XH2.54 connectors</figcaption>
+</figure>
+
 ### Connecting to Marlin
 
 Not yet tested/proved, but should be done with pin remapping according to scheme. TODO
