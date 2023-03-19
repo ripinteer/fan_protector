@@ -20,7 +20,7 @@ So, to make use of XiaoFan good folks designed a simple schematic that adds miss
     <p align="center">
         <img src="/readme_pics/polulu_installed.jpg" width="700" height="500" alt="protector installed in polulu socket">
     </p>
-    <figcaption>as description suggests, this protector can be installed right in the driver socket of motherboard</figcaption>
+    <figcaption> <p align="center">As description suggests, protector can be installed right in the driver socket of the motherboard</p></figcaption>
 </figure>
 
 Once the board is installed, the corresponding 4pin XH2.54 motor connector becomes the protected fan connector. **It will use the same power source your steppers powered from, so keep that in mind.** The XiaoFan is rated 15V max, but it can be overvolted to 24V and tuned down to ~60% using PWM to continious run. 
@@ -42,7 +42,7 @@ you will need to connect three (four with FG) pins: GND, VDD (aka VDD aka "plus"
     <p align="center">
         <img src="/readme_pics/inline.jpg" width="700" height="500" alt="protector board with XH2.54 connectors installed">
     </p>
-    <figcaption>protector board with soldered XH2.54 connectors</figcaption>
+    <figcaption><p align="center">Protector board with soldered XH2.54 connectors</p></figcaption>
 </figure>
 
 ### Connecting to Marlin
@@ -59,7 +59,7 @@ The only problem is my design doesn't have this MOSFET. "Why?" you ask. :eye:4:g
 
 <figure>
     <p align="center">
-        <img src="/readme_pics/inline_installed.jpg" width="700" height="500" style="img-align:center" alt="protector installed inline">
+        <img src="/readme_pics/inline_installed.jpg" width="700" height="500" style="img-align:center" alt="Protector installed inline">
     </p>
-    <figcaption>Inline connection example</figcaption>
+    <figcaption><p align="center">Inline connection example</p></figcaption>
 </figure>
