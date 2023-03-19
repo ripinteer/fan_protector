@@ -8,7 +8,7 @@ Simple polulu-compatible protection board for Xiaomi/Roborock radial fans
 >
 >Turns out there are compact fans for robotic vacuum cleaners widely available on Aliexpress and other places as a replacement part. Provided in refurbished condition they cost five-times less than 7040 and still have comparable potential.
 
-So if you want to adapt cheap (10$) and powerful vacuum cleaner turbines to your CPAP cooling system you can just connect PWM and DC to it... Most likely it will burn your electronics and finally set you free from 3D printing addiciton <br> **However, this type of connnection is strongly prohibited**, as it may (**will**) **fry** your **equipment** due to lack of certian passive components which is expected to be at the motherboard side.
+So if you want to adapt cheap (10$) and powerful vacuum cleaner turbines to your CPAP cooling system you can just connect PWM and DC to it... ~~Most likely it will burn your electronics and finally set you free from 3D printing addiciton~~ <br> **However, this type of connnection is strongly prohibited**, as it may (**will**) **fry** your **equipment** due to lack of certian passive components which is expected to be at the motherboard side.
 
 For more details about XiaoFans aka Roborockers, please refer to <a href="https://github.com/condottab/Roborock-CPAP" target="_blank">this repo from a friend of mine</a>
 
