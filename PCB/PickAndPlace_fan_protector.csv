@@ -1,0 +1,12 @@
+﻿Designator,Device,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Layer,Rotation,SMD,Comment
+"R2"	,"Res_0805"	,"R0805"	,"9.6mm"	,"6.65mm"	,"9.6mm"	,"6.65mm"	,"10.6mm"	,"6.65mm"	,"B"	,"180"	,"Yes"	,"10K"	,
+"R1"	,"Res_0805"	,"R0805"	,"9.6mm"	,"9.2mm"	,"9.6mm"	,"9.2mm"	,"10.6mm"	,"9.2mm"	,"B"	,"180"	,"Yes"	,"1K"	,
+"D1"	,"1N5819WS"	,"SOD-323_L1.6-W1.3-LS2.7-RD"	,"5.1mm"	,"7.8mm"	,"5.1mm"	,"7.8mm"	,"6.4mm"	,"7.8mm"	,"B"	,"180"	,"Yes"	,"1N5819WS"	,
+"D3"	,"BZT52C10S_C353563"	,"SOD-323_L1.6-W1.3-LS2.7-RD"	,"5.1mm"	,"15.6mm"	,"5.1mm"	,"15.6mm"	,"6.4mm"	,"15.6mm"	,"B"	,"180"	,"Yes"	,"BZT52C10S"	,
+"D2"	,"BZT52C10S_C353563"	,"SOD-323_L1.6-W1.3-LS2.7-RD"	,"5.1mm"	,"11.767mm"	,"5.1mm"	,"11.767mm"	,"6.4mm"	,"11.767mm"	,"B"	,"180"	,"Yes"	,"BZT52C10S"	,
+"R3"	,"Res_0805"	,"R0805"	,"9.6mm"	,"4.1mm"	,"9.6mm"	,"4.1mm"	,"10.6mm"	,"4.1mm"	,"B"	,"180"	,"Yes"	,"1K"	,
+"D4"	,"BZT52C10S_C353563"	,"SOD-323_L1.6-W1.3-LS2.7-RD"	,"5.1mm"	,"4.1mm"	,"5.1mm"	,"4.1mm"	,"6.4mm"	,"4.1mm"	,"B"	,"180"	,"Yes"	,"BZT52C10S"	,
+"DEC_TMC?"	,"polulu_stepstick_base"	,"polulu"	,"7.62mm"	,"10.16mm"	,"0mm"	,"0mm"	,"1.27mm"	,"19.05mm"	,"T"	,"0"	,"No"	,"?"	,
+"H2"	,"HDR-M_2.54_1x4P"	,"HDR-TH_4P-P2.54-V-M"	,"7.62mm"	,"19.05mm"	,"7.62mm"	,"19.05mm"	,"11.43mm"	,"19.05mm"	,"T"	,"180"	,"No"	,"HDR-M_2.54_1x4P"	,
+"H1"	,"HDR-M_2.54_1x4P"	,"HDR-TH_4P-P2.54-V-M"	,"7.62mm"	,"1.27mm"	,"7.62mm"	,"1.27mm"	,"11.43mm"	,"1.27mm"	,"T"	,"180"	,"No"	,"HDR-M_2.54_1x4P"	,
+"D5"	,"DO-214AC"	,"SMA_L4.3-W2.6-LS5.2-RD"	,"9.6mm"	,"14.4mm"	,"9.6mm"	,"14.4mm"	,"9.6mm"	,"16.6mm"	,"B"	,"270"	,"Yes"	,"DO-214AC"	,
