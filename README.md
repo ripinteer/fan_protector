@@ -17,9 +17,10 @@ My take on that situation
 So, to make use of XiaoFan good folks designed a simple schematic that adds missed protection features and stabilizes control voltage. To simplify the installation process and eliminate wiring "fun" I designed that simple polulu-compatible protection board, based on the original schematic.
 
 <figure>
-    <img src="/readme_pics/polulu_installed.jpg"
-         alt="protector installed in polulu socket">
-    <figcaption>As description suggests, this protector can be installed right in the driver socket of motherboard</figcaption>
+    <p align="center">
+        <img src="/readme_pics/polulu_installed.jpg" width="700" height="500" alt="protector installed in polulu socket">
+    </p>
+    <figcaption>as description suggests, this protector can be installed right in the driver socket of motherboard</figcaption>
 </figure>
 
 Once the board is installed, the corresponding 4pin XH2.54 motor connector becomes the protected fan connector. **It will use the same power source your steppers powered from, so keep that in mind.** The XiaoFan is rated 15V max, but it can be overvolted to 24V and tuned down to ~60% using PWM to continious run. 
@@ -38,8 +39,9 @@ you will need to know STEP and DIR pin addresses for the driver slot, where Fan 
 you will need to connect three (four with FG) pins: GND, VDD (aka VDD aka "plus"), and PWM. The XiaoFans is pretty powerhungry (~2.5A at 24V 100%) so you should power it from the main DC supply (PSU). PWM pin should be connected to any unoccupied PWM-controllable output on the motherboard. Ideally, this pin should support hardware PWM, so you can go for higher frequencies to eliminate "whistle" caused by low-freq PWM. Klipper should warn you if the chosen pin is unsupported by hardware PWM. <br> *Also this type of connection is already described in the repo by the link above which should be considered prior*
 
 <figure>
-    <img src="/readme_pics/inline.jpg"
-         alt="protector board with XH2.54 connectors installed">
+    <p align="center">
+        <img src="/readme_pics/inline.jpg" width="700" height="500" alt="protector board with XH2.54 connectors installed">
+    </p>
     <figcaption>protector board with soldered XH2.54 connectors</figcaption>
 </figure>
 
@@ -56,7 +58,8 @@ The only problem is my design doesn't have this MOSFET. "Why?" you ask. :eye:4:g
 > :pushpin: **Note:** As you can probably notice, this design supports both polulu and standart connection. Let's consider standart connection a default variant by now. 
 
 <figure>
-    <img src="/readme_pics/inline_installed.jpg"
-         alt="protector installed inline">
+    <p align="center">
+        <img src="/readme_pics/inline_installed.jpg" width="700" height="500" style="img-align:center" alt="protector installed inline">
+    </p>
     <figcaption>Inline connection example</figcaption>
 </figure>
