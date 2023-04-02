@@ -63,3 +63,5 @@ The only problem is my design doesn't have this MOSFET. "Why?" you ask. :eye:4:g
     </p>
     <figcaption><p align="center">Inline connection example</p></figcaption>
 </figure>
+
+Any use of the provided files is at your own risk!
